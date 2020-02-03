@@ -10,3 +10,5 @@ python_project: It was bascically a part of learning how to create a python proj
 ```
 
 ![Capture](https://user-images.githubusercontent.com/54764701/73684063-7277ce80-46e9-11ea-9301-4be1651e7b76.PNG)
+
+> Enter the thing u want to contribute
