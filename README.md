@@ -12,3 +12,7 @@ python_project: It was bascically a part of learning how to create a python proj
 ![Capture](https://user-images.githubusercontent.com/54764701/73684063-7277ce80-46e9-11ea-9301-4be1651e7b76.PNG)
 
 > Want some changes give it here.
+
+The UI of the game look like as:
+
+![Capture2](https://user-images.githubusercontent.com/54764701/73710800-061dbf00-472b-11ea-8dd3-7b78a7b6348f.PNG)
