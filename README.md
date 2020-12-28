@@ -9,8 +9,6 @@ python_project: It was bascically a part of learning how to create a python proj
 + Adding colour to the readme file will be amazing style to make the readme file presentable.
 ```
 
-![Capture](https://user-images.githubusercontent.com/54764701/73684063-7277ce80-46e9-11ea-9301-4be1651e7b76.PNG)
-
 > Want some changes give it here.
 
 The UI of the game look like as:
